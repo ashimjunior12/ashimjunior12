@@ -34,22 +34,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ashimjunior12&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashimjunior12&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ashimjunior12&theme=transparent&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</p>
