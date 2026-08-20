@@ -1,5 +1,5 @@
 # Hi, I'm Ashim Bhattarai
-> **Turning undefined is not a function into a lifestyle**
+> **Turning** `undefined is not a function` **into a lifestyle**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ashimjunior12&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ashimjunior12)
 
